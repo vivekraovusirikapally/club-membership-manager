@@ -1,0 +1,10 @@
+name,email,phone,department,year,join_date,status,dues_paid
+Tara Menon,tara.menon@college.edu,9876501234,CSE,2,2026-01-15,active,yes
+Dev Malhotra,dev.m@college.edu,8123456780,ECE,3,2025-11-02,active,no
+,blank.name@college.edu,9876543210,IT,1,2026-02-01,active,no
+Bad Email,not-an-email,9876543211,IT,1,2026-02-01,active,no
+Year Nine,year9@college.edu,9876543212,CSE,9,2026-02-01,active,no
+Short Phone,short@college.edu,12345,CSE,2,2026-02-01,active,no
+Future Joiner,future@college.edu,9876543213,CSE,2,2099-01-01,active,no
+Wrong Dept,dept@college.edu,9876543214,BIOLOGY,2,2026-02-01,active,no
+Isha Bose,isha.bose@college.edu,7012345678,MBA,1,2026-03-10,active,yes

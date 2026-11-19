@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+data/*.corrupt_*
+data/*.tmp
+data/import_errors.log
+exports/*
+!exports/.gitkeep

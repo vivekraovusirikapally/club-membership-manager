@@ -1,0 +1,554 @@
+{
+  "members": [
+    {
+      "member_id": "M001",
+      "name": "Swathi Sharma",
+      "email": "swathi.sharma@college.edu",
+      "phone": "8994185660",
+      "department": "MECH",
+      "year": 2,
+      "join_date": "2026-11-19",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M002",
+      "name": "Rohan Kumar",
+      "email": "rohan.kumar@college.edu",
+      "phone": "8986372366",
+      "department": "EEE",
+      "year": 4,
+      "join_date": "2026-10-19",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M003",
+      "name": "Kiran Nair",
+      "email": "kiran.nair@college.edu",
+      "phone": "9782449769",
+      "department": "IT",
+      "year": 2,
+      "join_date": "2026-09-28",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M004",
+      "name": "Sai Sharma",
+      "email": "sai.sharma@college.edu",
+      "phone": "9266749253",
+      "department": "CSE",
+      "year": 4,
+      "join_date": "2026-06-28",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M005",
+      "name": "Swathi Rao",
+      "email": "swathi.rao@college.edu",
+      "phone": "9240004108",
+      "department": "EEE",
+      "year": 1,
+      "join_date": "2026-10-19",
+      "status": "alumni",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M006",
+      "name": "Harsha Iyer",
+      "email": "harsha.iyer@college.edu",
+      "phone": "7103470231",
+      "department": "MBA",
+      "year": 4,
+      "join_date": "2026-08-25",
+      "status": "inactive",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M007",
+      "name": "Karthik Nair",
+      "email": "karthik.nair@college.edu",
+      "phone": "7530919453",
+      "department": "CSE",
+      "year": 3,
+      "join_date": "2026-04-19",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M008",
+      "name": "Manoj Rao",
+      "email": "manoj.rao@college.edu",
+      "phone": "8616066705",
+      "department": "CSE",
+      "year": 3,
+      "join_date": "2026-05-02",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M009",
+      "name": "Rahul Varma",
+      "email": "rahul.varma@college.edu",
+      "phone": "6537073937",
+      "department": "EEE",
+      "year": 3,
+      "join_date": "2026-08-21",
+      "status": "inactive",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M010",
+      "name": "Ananya Kumar",
+      "email": "ananya.kumar@college.edu",
+      "phone": "6874014353",
+      "department": "CIVIL",
+      "year": 2,
+      "join_date": "2026-09-19",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M011",
+      "name": "Sneha Patel",
+      "email": "sneha.patel@college.edu",
+      "phone": "8502533634",
+      "department": "IT",
+      "year": 4,
+      "join_date": "2026-07-12",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M012",
+      "name": "Karthik Sharma",
+      "email": "karthik.sharma@college.edu",
+      "phone": "7991411332",
+      "department": "IT",
+      "year": 3,
+      "join_date": "2026-10-28",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M013",
+      "name": "Meera Sharma",
+      "email": "meera.sharma@college.edu",
+      "phone": "8651541985",
+      "department": "CSE",
+      "year": 1,
+      "join_date": "2026-09-11",
+      "status": "inactive",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M014",
+      "name": "Sai Nair",
+      "email": "sai.nair@college.edu",
+      "phone": "9336768890",
+      "department": "ECE",
+      "year": 4,
+      "join_date": "2026-08-06",
+      "status": "inactive",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M015",
+      "name": "Sai Varma",
+      "email": "sai.varma@college.edu",
+      "phone": "8883483333",
+      "department": "MECH",
+      "year": 3,
+      "join_date": "2026-07-14",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M016",
+      "name": "Ananya Sharma",
+      "email": "ananya.sharma@college.edu",
+      "phone": "9204995699",
+      "department": "CSE",
+      "year": 1,
+      "join_date": "2026-06-13",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M017",
+      "name": "Ishita Patel",
+      "email": "ishita.patel@college.edu",
+      "phone": "7265287215",
+      "department": "EEE",
+      "year": 4,
+      "join_date": "2026-08-30",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M018",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@college.edu",
+      "phone": "9639953144",
+      "department": "CSE",
+      "year": 3,
+      "join_date": "2026-11-09",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M019",
+      "name": "Rohan Reddy",
+      "email": "rohan.reddy@college.edu",
+      "phone": "8888273553",
+      "department": "ECE",
+      "year": 3,
+      "join_date": "2026-08-03",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M020",
+      "name": "Karthik Reddy",
+      "email": "karthik.reddy@college.edu",
+      "phone": "9254814903",
+      "department": "CIVIL",
+      "year": 2,
+      "join_date": "2026-04-03",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M021",
+      "name": "Sneha Iyer",
+      "email": "sneha.iyer@college.edu",
+      "phone": "7139894046",
+      "department": "EEE",
+      "year": 1,
+      "join_date": "2026-02-26",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M022",
+      "name": "Rohan Nair",
+      "email": "rohan.nair@college.edu",
+      "phone": "8220573900",
+      "department": "EEE",
+      "year": 3,
+      "join_date": "2026-01-11",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M023",
+      "name": "Vikram Nair",
+      "email": "vikram.nair@college.edu",
+      "phone": "6814430159",
+      "department": "IT",
+      "year": 1,
+      "join_date": "2026-06-04",
+      "status": "inactive",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M024",
+      "name": "Pooja Nair",
+      "email": "pooja.nair@college.edu",
+      "phone": "7262044579",
+      "department": "CIVIL",
+      "year": 3,
+      "join_date": "2026-03-08",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M025",
+      "name": "Sai Iyer",
+      "email": "sai.iyer@college.edu",
+      "phone": "6582039370",
+      "department": "IT",
+      "year": 2,
+      "join_date": "2026-08-25",
+      "status": "alumni",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M026",
+      "name": "Neha Iyer",
+      "email": "neha.iyer@college.edu",
+      "phone": "6389220656",
+      "department": "ECE",
+      "year": 3,
+      "join_date": "2026-06-16",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M027",
+      "name": "Arjun Gupta",
+      "email": "arjun.gupta@college.edu",
+      "phone": "8758601804",
+      "department": "EEE",
+      "year": 3,
+      "join_date": "2026-02-07",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M028",
+      "name": "Ananya Iyer",
+      "email": "ananya.iyer@college.edu",
+      "phone": "7730754479",
+      "department": "EEE",
+      "year": 2,
+      "join_date": "2026-06-02",
+      "status": "alumni",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M029",
+      "name": "Kiran Reddy",
+      "email": "kiran.reddy@college.edu",
+      "phone": "8102373202",
+      "department": "ECE",
+      "year": 1,
+      "join_date": "2026-05-20",
+      "status": "alumni",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M030",
+      "name": "Sneha Gupta",
+      "email": "sneha.gupta@college.edu",
+      "phone": "8090570085",
+      "department": "CSE",
+      "year": 1,
+      "join_date": "2026-06-06",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M031",
+      "name": "Meera Kumar",
+      "email": "meera.kumar@college.edu",
+      "phone": "7769840186",
+      "department": "EEE",
+      "year": 3,
+      "join_date": "2026-08-24",
+      "status": "alumni",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M032",
+      "name": "Karthik Varma",
+      "email": "karthik.varma@college.edu",
+      "phone": "8288080340",
+      "department": "CSE",
+      "year": 2,
+      "join_date": "2026-02-14",
+      "status": "inactive",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M033",
+      "name": "Manoj Iyer",
+      "email": "manoj.iyer@college.edu",
+      "phone": "9651840068",
+      "department": "IT",
+      "year": 1,
+      "join_date": "2026-04-11",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M034",
+      "name": "Lakshmi Gupta",
+      "email": "lakshmi.gupta@college.edu",
+      "phone": "8630784936",
+      "department": "IT",
+      "year": 2,
+      "join_date": "2026-10-18",
+      "status": "inactive",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M035",
+      "name": "Kiran Das",
+      "email": "kiran.das@college.edu",
+      "phone": "8172944951",
+      "department": "CIVIL",
+      "year": 3,
+      "join_date": "2026-05-19",
+      "status": "alumni",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M036",
+      "name": "Rahul Reddy",
+      "email": "rahul.reddy@college.edu",
+      "phone": "6250297134",
+      "department": "EEE",
+      "year": 2,
+      "join_date": "2026-06-18",
+      "status": "active",
+      "dues_paid": false
+    },
+    {
+      "member_id": "M037",
+      "name": "Arjun Varma",
+      "email": "arjun.varma@college.edu",
+      "phone": "6989153459",
+      "department": "ECE",
+      "year": 3,
+      "join_date": "2026-08-24",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M038",
+      "name": "Arjun Patel",
+      "email": "arjun.patel@college.edu",
+      "phone": "9347007223",
+      "department": "CSE",
+      "year": 3,
+      "join_date": "2026-05-06",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M039",
+      "name": "Aarav Nair",
+      "email": "aarav.nair@college.edu",
+      "phone": "6043007891",
+      "department": "MBA",
+      "year": 2,
+      "join_date": "2026-07-10",
+      "status": "active",
+      "dues_paid": true
+    },
+    {
+      "member_id": "M040",
+      "name": "Priya Nair",
+      "email": "priya.nair@college.edu",
+      "phone": "9415166737",
+      "department": "MBA",
+      "year": 4,
+      "join_date": "2026-08-25",
+      "status": "active",
+      "dues_paid": true
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "Intro to Python Workshop",
+      "date": "2026-10-10",
+      "category": "workshop",
+      "capacity": 30,
+      "attendees": [
+        "M010",
+        "M018",
+        "M002",
+        "M020",
+        "M012",
+        "M011",
+        "M022",
+        "M016",
+        "M015"
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "Hack Night",
+      "date": "2026-11-04",
+      "category": "technical",
+      "capacity": 25,
+      "attendees": [
+        "M015",
+        "M019",
+        "M018",
+        "M039",
+        "M033",
+        "M012",
+        "M016",
+        "M021",
+        "M010",
+        "M036",
+        "M038"
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "Cultural Fest Planning",
+      "date": "2026-11-14",
+      "category": "cultural",
+      "capacity": 20,
+      "attendees": [
+        "M019",
+        "M007",
+        "M011",
+        "M039",
+        "M033",
+        "M040",
+        "M036"
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "Inter-Dept Cricket",
+      "date": "2026-11-22",
+      "category": "sports",
+      "capacity": 12,
+      "attendees": [
+        "M008",
+        "M030",
+        "M017",
+        "M024",
+        "M019",
+        "M012",
+        "M040",
+        "M004",
+        "M026",
+        "M001"
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "Resume Clinic",
+      "date": "2026-11-24",
+      "category": "workshop",
+      "capacity": 10,
+      "attendees": [
+        "M033",
+        "M040",
+        "M036",
+        "M015",
+        "M017",
+        "M010",
+        "M011",
+        "M002",
+        "M018",
+        "M030"
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "Annual Meetup",
+      "date": "2026-12-09",
+      "category": "social",
+      "capacity": 40,
+      "attendees": [
+        "M011",
+        "M040",
+        "M010",
+        "M021",
+        "M030",
+        "M020",
+        "M017"
+      ]
+    }
+  ]
+}
